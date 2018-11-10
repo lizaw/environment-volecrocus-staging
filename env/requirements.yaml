@@ -10,3 +10,6 @@ dependencies:
 - name: loopback4-example-todo-list
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.2
+- name: loopback4-pubsub
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.3
